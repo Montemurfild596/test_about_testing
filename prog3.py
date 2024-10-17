@@ -5,7 +5,7 @@ from tkinter import ttk
 # Ваше приложение
 def create_app():
     root = Tk()
-    root.title("TEST_UI.COM")
+    root.title("TEST_UI")
     root.geometry("200x200") 
 
     entry = ttk.Entry(root)
